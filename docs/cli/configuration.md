@@ -1,3 +1,15 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Integrantes</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content class="ion-padding">
+  <ion-label>
+    <h2>Nombre: Heidy Hernández</h2>
+    <p>Estudiante de Ingeniería en Software</p>
+  </ion-label>
+</ion-content>
 ---
 title: Configuration
 ---
